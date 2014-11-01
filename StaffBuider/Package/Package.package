@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="09cab68a-ae3f-40c7-9882-ac14c8c8fe13" 
+        solutionId="09cab68a-ae3f-40c7-9882-ac14c8c8fe13" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="StaffBuider"
+        sharePointProductVersion="14.0">
+</package>
